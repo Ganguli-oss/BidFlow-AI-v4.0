@@ -3,3 +3,5 @@ google-generativeai
 groq
 Pillow
 crewai
+pypdf
+python-dotenv
