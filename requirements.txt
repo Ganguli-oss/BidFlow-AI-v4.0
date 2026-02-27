@@ -4,4 +4,5 @@ groq
 Pillow
 crewai
 pypdf
+litellm
 python-dotenv
